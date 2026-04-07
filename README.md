@@ -197,10 +197,6 @@ Performance Comparison on RefCOCO, RefCOCO+, and RefCOCOg:
 
 ---
 
-
-
----
-
 ## Citation
 
 ```bibtex
