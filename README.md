@@ -60,7 +60,7 @@ The overall architecture of **Universal Relocalizer** is illustrated below.
 Our framework is a plug-and-play relocalization module for weakly supervised referring expression grounding, which enhances existing two-stage methods by refining proposal scores with category, color, and spatial relationship information.
 
 <p align="center">
-  <img src="./src/assets/pipline_UR.png" alt="Framework of Universal Relocalizer" width="85%">
+  <img src="./src/assets/pipeline.png" alt="Framework of Universal Relocalizer" width="85%">
 </p>
 
 <p align="center">
