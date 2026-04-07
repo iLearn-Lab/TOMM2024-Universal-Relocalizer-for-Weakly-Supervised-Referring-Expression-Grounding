@@ -221,7 +221,7 @@ Performance Comparison on RefCOCO, RefCOCO+, and RefCOCOg:
 ## Acknowledgement
 
 
-- This project benefits from the open-source implementation of [MAttNet](https://github.com/lichengunc/MAttNet), [reclip]([https://github.com/lichengunc/MAttNet](https://github.com/allenai/reclip)), [DTWREG](https://github.com/insomnia94/DTWREG).  
+- This project benefits from the open-source implementation of [MAttNet](https://github.com/lichengunc/MAttNet), [reclip](https://github.com/allenai/reclip), [DTWREG](https://github.com/insomnia94/DTWREG).  
 We sincerely thank the authors for making their code publicly available.
 
 ---
