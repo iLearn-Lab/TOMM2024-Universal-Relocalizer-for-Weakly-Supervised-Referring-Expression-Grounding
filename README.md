@@ -134,17 +134,27 @@ Please use **[DTWREG](https://github.com/insomnia94/DTWREG)** to set up the envi
 
 如果你们还提供数据集，可以写：
 
-- **Dataset**: [`Dataset Link`](<huggingface-dataset-link>)
-- **Benchmark**: [`Benchmark Link`](<benchmark-link>)
+- **Dataset**: [`Dataset Link`](<https://github.com/lichengunc/MAttNet>)
 
-并说明数据组织方式，例如：
+数据组织方式如下
 
 ```text
-data/
-├── train/
-├── val/
-└── test/
-```
+$COCO_PATH
+├── images
+│   ├── mscoco
+│   │   └── images
+│   │       └── train2014
+│   └── saiapr_tc12
+├── refcoco
+│   ├── instances.json
+│   ├── refs(google).p
+│   └── refs(unc).p
+├── refcoco+
+│   ├── instances.json
+│   └── refs(unc).p
+└── refcocog
+    ├── instances.json
+    └── refs(google).p
 
 > 如果数据集不能直接公开，请在这里说明申请方式或访问限制。
 
