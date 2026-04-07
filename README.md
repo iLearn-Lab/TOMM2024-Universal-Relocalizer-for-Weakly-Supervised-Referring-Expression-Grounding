@@ -1,16 +1,24 @@
-# `Universal Relocalizer for Weakly Supervised Referring Expression Grounding`
+# Universal Relocalizer for Weakly Supervised Referring Expression Grounding
 
-> `This paper presents the Universal Relocalizer, a method for weakly
-supervised referring expression grounding that aims to identify a
-target proposal relevant to a given query without requiring regionlevel annotations during training.`
+> A plug-and-play relocalization framework for weakly supervised referring expression grounding that improves object localization by refining proposal scores with category, color, and spatial cues.
 
 ## Authors
 
-**Author A**<Panpan Zhang>1</Shandong University, Qingdao>, **Author B**<sup>1</sup>, **Author C**<sup>2</sup>, **Author D**<sup>1</sup>\*
+PANPAN ZHANG¹, MENG LIU¹, XUEMENG SONG², DA CAO³, ZAN GAO⁴, LIQIANG NIE⁵
 
-<sup>1</sup> `<Affiliation 1>`  
-<sup>2</sup> `<Affiliation 2>`  
-\* Corresponding author
+¹ Shandong University, Qingdao, China  
+² School of Computer Science and Technology, Shandong University, Qingdao, China  
+³ College of Computer Science and Electronic Engineering, Hunan University, Changsha, China  
+⁴ Qilu University of Technology, Jinan, China  
+⁵ School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), Shenzhen, China  
+
+*Corresponding authors: Meng Liu, Xuemeng Song*
+
+## Links
+
+- Paper: [ACM Digital Library](https://doi.org/10.1145/3656045)
+
+> 如果你后面找到了项目主页、代码仓库、数据集页或演示链接，再继续补到这里即可。
 
 ## Links
 
