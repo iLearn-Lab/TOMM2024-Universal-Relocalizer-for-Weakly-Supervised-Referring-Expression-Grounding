@@ -189,7 +189,7 @@ python ./eval.py --dataset refcoco --splitBy unc --split val --id 1
 ## Visualization
 
 
-### Demo Video
+### Qualitative Comparison
 
 <p align="center">
   <img src="./src/assets/vis.png" alt="Framework of Universal Relocalizer" width="85%">
@@ -198,6 +198,9 @@ python ./eval.py --dataset refcoco --splitBy unc --split val --id 1
 <p align="center">
   <em>Figure 1. Overall framework of UR.</em>
 </p>
+Qualitative comparison results between DTWREG and DTWREG with our method on RefCOCO, RefCOCO+, and
+RefCOCOg datasets. The green boxes indicated the ground truth and the red boxes indicated the predictions. The figure was
+best viewed in colors.
 
 ### Example Results
 
