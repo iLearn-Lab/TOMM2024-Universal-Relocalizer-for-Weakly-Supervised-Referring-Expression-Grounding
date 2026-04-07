@@ -1,11 +1,12 @@
-# TOMM2024-Universal-Relocalizer-for-Weakly-Supervised-Referring-Expression-Grounding
-Pytorch implementation for Universal Relocalizer for Weakly Supervised Referring Expression Grounding, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2024, accepted.
+# `Universal Relocalizer for Weakly Supervised Referring Expression Grounding`
 
-# Universal Relocalizer for Weakly Supervised Referring Expression Grounding
+> `This paper presents the Universal Relocalizer, a method for weakly
+supervised referring expression grounding that aims to identify a
+target proposal relevant to a given query without requiring regionlevel annotations during training.`
 
 ## Authors
 
-**Author A**<sup>1</sup>, **Author B**<sup>1</sup>, **Author C**<sup>2</sup>, **Author D**<sup>1</sup>\*
+**Author A**<Panpan Zhang>1</Shandong University, Qingdao>, **Author B**<sup>1</sup>, **Author C**<sup>2</sup>, **Author D**<sup>1</sup>\*
 
 <sup>1</sup> `<Affiliation 1>`  
 <sup>2</sup> `<Affiliation 2>`  
