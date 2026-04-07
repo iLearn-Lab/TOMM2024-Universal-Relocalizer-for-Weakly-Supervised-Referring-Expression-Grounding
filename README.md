@@ -18,13 +18,7 @@ PANPAN ZHANG<sup>1</sup>, MENG LIU<sup>2*</sup>, XUEMENG SONG<sup>3*</sup>, DA C
 
 ## Links
 
-- Paper: [ACM Digital Library](https://doi.org/10.1145/3656045)
-
-> 如果你后面找到了项目主页、代码仓库、数据集页或演示链接，再继续补到这里即可。
-
-## Links
-
-- **Paper**: [`Paper Link`](<paper-link>)
+- **Paper**: [`Paper Link`](<[paper-link](https://dl.acm.org/doi/10.1145/3656045)>)
 - **Project Page**: [`Project Page`](<project-page-link>)
 - **Hugging Face Model**: [`Model`](<huggingface-model-link>)
 - **Hugging Face Dataset**: [`Dataset`](<huggingface-dataset-link>)
