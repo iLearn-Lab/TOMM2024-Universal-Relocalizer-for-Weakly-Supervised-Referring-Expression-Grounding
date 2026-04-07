@@ -77,23 +77,7 @@ Our framework is a plug-and-play relocalization module for weakly supervised ref
 
 ---
 
-## Project Structure
 
-```text
-.
-├── assets/                # 图片、框架图、结果图、demo 图
-├── configs/               # 配置文件
-├── data/                  # 数据说明（不建议直接上传大数据本体）
-├── scripts/               # 训练、推理、评测脚本
-├── src/                   # 核心源码
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
-如果你的项目结构不同，请按实际情况修改。
-
----
 
 ## Installation
 
@@ -232,7 +216,7 @@ Performance Comparison on RefCOCO, RefCOCO+, and RefCOCOg:
 ## Acknowledgement
 
 
-- This project benefits from the open-source implementation of [DTWREG](https://github.com/insomnia94/DTWREG).  
+- This project benefits from the open-source implementation of [MAttNet](https://github.com/lichengunc/MAttNet), [reclip]([https://github.com/lichengunc/MAttNet](https://github.com/allenai/reclip)), [DTWREG](https://github.com/insomnia94/DTWREG).  
 We sincerely thank the authors for making their code publicly available.
 
 ---
