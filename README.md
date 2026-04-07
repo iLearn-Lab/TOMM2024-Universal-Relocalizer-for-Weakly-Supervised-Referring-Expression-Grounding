@@ -169,14 +169,9 @@ python prepro_clip.py
 
 DTWREG enhancement: Use the UR plugin to enhance the performance of DTWREG.
 
-### Evaluation
-
 ```bash
 python scripts/eval.py
 ```
-
-请根据你的项目实际情况替换成真实命令。  
-如果你的项目没有训练或评测部分，可以删除对应小节。
 
 ---
 
