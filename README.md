@@ -166,6 +166,7 @@ python ./tools/prepro_rel.py --dataset refcoco --splitBy unc
 ```
 
 ### Training
+train DTWREG model
 ```bash
 python ./tools/train.py --dataset refcoco --splitBy unc --exp_id 1
 ```
@@ -187,11 +188,16 @@ python ./eval.py --dataset refcoco --splitBy unc --split val --id 1
 
 ## Visualization
 
-如果你们有演示页面、视频或截图，可以写在这里。
 
 ### Demo Video
 
-- [`Demo Link`](<demo-link>)
+<p align="center">
+  <img src="./src/assets/vis.png" alt="Framework of Universal Relocalizer" width="85%">
+</p>
+
+<p align="center">
+  <em>Figure 1. Overall framework of UR.</em>
+</p>
 
 ### Example Results
 
