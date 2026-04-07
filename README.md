@@ -25,22 +25,7 @@ PANPAN ZHANG<sup>1</sup>, MENG LIU<sup>2*</sup>, XUEMENG SONG<sup>3*</sup>, DA C
 
 ---
 
-## Table of Contents
 
-- [Updates](#updates)
-- [Introduction](#introduction)
-- [Highlights](#highlights)
-- [Framework](#method--framework)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Dataset / Benchmark](#dataset--benchmark)
-- [Usage](#usage)
-- [Visualization](#demo--visualization)
-- [Citation](#citation)
-- [Acknowledgement](#acknowledgement)
-- [License](#license)
-
----
 
 ## Updates
 
